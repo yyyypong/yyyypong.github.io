@@ -232,12 +232,6 @@ body {
   cursor: pointer;
 }
 
-#replay strong {
-  padding: 3px 5px;
-  border-radius: 3px;
-  display: inline-block;
-}
-
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
