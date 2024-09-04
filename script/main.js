@@ -293,7 +293,7 @@ const animationTimeline = () => {
       yoyo: true,
       ease: "bounce.out"
       }, 
-      "+=1");
+      "+=0.7");
 
     
     
