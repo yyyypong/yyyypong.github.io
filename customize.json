@@ -1,11 +1,11 @@
 {
   "greeting": "I Love You",
   "name": "徐江雨",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
-  "imagePath": "img/lydia2.png",
+  "greetingText": "I really like you",
+  "wishText": "Te amo mais do que todas as palavras podem",
+  "imagePath": "img/housewife.png",
   "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "textInChatBox": " blah...",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
   "text3": "But then I stopped.",
@@ -16,8 +16,8 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday",
+  "wishHeading": "我爱你",
   "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "replayText": "Or click, if you want to go through.",
   "outroSmiley": ":)"
 }
