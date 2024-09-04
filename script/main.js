@@ -289,7 +289,7 @@ const animationTimeline = () => {
 
     .to(".last-smile", 0.4, {
       opacity: 0.1,
-      repeat: 3,
+      repeat: 5,
       yoyo: true,
       ease: "bounce.out"
       }, 
