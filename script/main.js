@@ -283,15 +283,18 @@ const animationTimeline = () => {
       zIndex: "-1"
     })
     .staggerFrom(".nine p", 1, ideaTextTrans, 1.2)
-    .set("#replay strong", {color: "#ff69b4"}, "+=1")
+    .to("#replay strong", 0.5, {
+      color: "#ff69b4"
+    }, "+=0.5")
 
-    .to(".last-smile", 1, {
+    .to(".last-smile", 0.4, {
       opacity: 0.1,
       repeat: 3,
       yoyo: true,
       ease: "bounce.out"
       }, 
-      "+=1");
+      "+=0.5");
+
     
     
 
