@@ -282,16 +282,16 @@ const animationTimeline = () => {
       y: 30,
       zIndex: "-1"
     })
-    .staggerFrom(".nine p span, .nine p strong", 1, ideaTextTrans, 1.2)
-    .to(".nine strong", 0.5, {
-      scale: 1.2,
-      x: 10,
-      color: "#ff69b4"
-    })
+    .staggerFrom(".nine p", 1, ideaTextTrans, 1.2)
+    .set("#replay strong", {color: "#ff69b4"}, "+=1")
 
-    .to(".last-smile", 0.5, {
-      rotation: 90
-    }, "+=1");
+    .to(".last-smile", 1, {
+      opacity: 0.1,
+      repeat: 3,
+      yoyo: true,
+      ease: "bounce.out"
+      }, 
+      "+=1");
     
     
 
