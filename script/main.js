@@ -305,7 +305,7 @@ const animationTimeline = () => {
   const replyBtn = document.getElementById("replay");
   replyBtn.addEventListener("click", () => {
     tl.kill()
-    window.location.href = 'https://www.google.com.hk/';
+    window.location.href = 'https://xujiangyuwife.wixstudio.io/my-site/';
   });
 };
 
